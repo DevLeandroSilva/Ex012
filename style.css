@@ -1,0 +1,19 @@
+.myimg{
+    border-radius: 50%;
+}
+
+.iconelinkedin, .iconeinstagram, .iconefacebook{
+width : 20px;
+ height : 20px;
+ border-radius: 20%;
+}
+
+
+#mostrar{
+    display: none;
+  }
+  
+  #passar_mouse:hover #mostrar{
+    display:block;
+    color: goldenrod;
+    }
